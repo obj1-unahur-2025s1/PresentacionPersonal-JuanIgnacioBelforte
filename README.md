@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Juan Ignacio Belforte
+- Vivo en Villa Sarmiento, Morón
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo un canal donde subo tutoriales de diversos conocimientos 
+- Tengo un gato que se llama Jamie
