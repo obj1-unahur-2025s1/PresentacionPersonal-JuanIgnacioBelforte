@@ -2,6 +2,8 @@
 
 # Juan Ignacio Belforte
 
+![Juan Ignacio Belforte](./Juan Ignacio Belforte.jpg)
+
 Hola, me llamo **Juan Ignacio** y este es mi tercer cuatrimestre en esta carrera, ya que recursé Programación estructurada. Vivo en Villa Sarmiento, Morón con mi mamá y mi hermana.
 
 Me incribi en la carrera de programacion de videojuegos en 2023 y en programación en 2024 ya que quería hacer dos carrera de uno de mis gustos mas grandes. 
