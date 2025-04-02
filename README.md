@@ -2,7 +2,7 @@
 
 # Juan Ignacio Belforte
 
-![Juan Ignacio Belforte](./Juan Ignacio Belforte.jpg)
+![Juan Ignacio Belforte](./JuanIgnacioBelforte.jpg)
 
 Hola, me llamo **Juan Ignacio** y este es mi tercer cuatrimestre en esta carrera, ya que recursé Programación estructurada. Vivo en Villa Sarmiento, Morón con mi mamá y mi hermana.
 
