@@ -22,4 +22,4 @@ Estuve investigando mucho sobre Inteligencia artificial, y me interesa bastante.
 
 - Pero igualmente descubri que me encanta dibujar y el anime, y claro, dibujar anime
 
-- Mi proximo objetivo es poder mudarme solo y, si se puede, tener un gato, al cual llamaria Orion, como el gato de "Hombres de negro"
+- Mi proximo objetivo es poder mudarme solo y, si se puede, tener un gato, al cual llamaria Yugi, como el protagonista de Yu-Gi-Oh
